@@ -59,3 +59,6 @@ cd starlette
 ```
 ### or install the game:
 https://starlette-web-shxg.vercel.app/
+
+### or see the demo video:
+https://www.instagram.com/reel/DQjCquxjGhA/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
