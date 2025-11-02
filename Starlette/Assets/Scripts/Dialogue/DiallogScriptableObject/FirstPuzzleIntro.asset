@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb331fc995358ba448bcd006ca07559e, type: 3}
+  m_Name: FirstPuzzleIntro
+  m_EditorClassIdentifier: 
+  lines:
+  - "Moka \\nAlright, back to business. See that panel over there? That\u2019s the
+    room\u2019s energy control mechanism\u2014but it\u2019s been scrambled. Every
+    variable is disconnected from its data type."
+  - "Moka \\nOur task is simple\u2014reconnect each value with the correct data type.
+    The left side shows the variable names and types, and the right side holds the
+    values. "
+  - "Moka \\nBut here\u2019s the twist... every time you reopen this panel, the values
+    on the right are shuffled. You\u2019ll have to memorize and match them all in
+    one go!"

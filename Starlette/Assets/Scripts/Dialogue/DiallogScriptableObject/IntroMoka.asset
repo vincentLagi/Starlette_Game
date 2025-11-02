@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb331fc995358ba448bcd006ca07559e, type: 3}
+  m_Name: IntroMoka
+  m_EditorClassIdentifier: 
+  lines:
+  - Moka \nAloha, crew of this ship, my name is Moka! I am an AI assistant embedded
+    in this tablet to help you solve puzzles on the station. I can access data from
+    this room and give you the clues you need.
+  - Moka \nYou seem confused-let me introduce myself further. I'm an AI system designed
+    to help the crew understand the mechanics of each room. Whenever you need help,
+    you can count on me!
+  - Moka \nI will help you to return to Earth! Actually, I'm also confused about
+    what happened. Suddenly everything went dark and the communication system malfunctioned.
+    I can't detect the whereabouts of the other crew members, but at least I can
+    still help you control the systems on this ship. Let's find a way out together!

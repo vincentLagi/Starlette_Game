@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "95929124220",
+    "firebase_url": "https://starlette-18d89-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "starlette-18d89",
+    "storage_bucket": "starlette-18d89.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95929124220:android:233f28cf46d9ee903490f9",
+        "android_client_info": {
+          "package_name": "com.starlette.starlette"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgF9Qny6Qo97sJNYWnXXnI3RguGiGz19o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
